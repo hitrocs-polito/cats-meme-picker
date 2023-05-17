@@ -7,4 +7,5 @@ You can see this project on the web: https://cats-mem-picker.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/101324014/237055406-6446a1d9-80bf-473b-b8a9-9f156028f0bd.png)
 
+This is awesome website for cat lovers❤️
 
